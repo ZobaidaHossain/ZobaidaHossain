@@ -1,27 +1,40 @@
-![The San Juan Mountains are beautiful!](/image/Turquoise%20Simple%20Modern%20Linkedin%20Banner.png "San Juan Mountains")
+![I am full-stack web development.](https://media.licdn.com/dms/image/v2/D5616AQGiGJwcq_HScw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729968439763?e=1737590400&v=beta&t=Aa7Uan_qQjmY_CxGsqLk0-nxIfXtu8xRyfU2AGqFmnc)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZobaidaHossain&theme=dracula)](https://git.io/streak-stats)
+### Hi there 👋, I am Zobaida Hossain
 
-<p align="center">
-  Contact Me
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/zobaida-hossain-56a301214/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+I’m a **Software Developer** specializing in **PHP**, **Laravel**, and **Vue.js**. I build robust, scalable web applications and responsive websites, delivering clean, efficient code and top-tier performance.
 
-<p align="center">
-<h1></h1>
-My skills
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,nodejs,expressjs,mongodb,react,php,c,java,python" />
-  </a>
-</p>
 
-- 🌱 I’m currently learning :Advanced techniques in React.js,Node.js,MongoDB
-- 👯 I’m looking to collaborate on react based open source project
-- 🤔 I’m looking to connect with fellow developers and explore opportunities for collaborative open source project
-- 💬 Ask me about ...Anything related to MERN stack development.
-- 📫 How to reach me: zobaida15-13671@diu.edu.bd
+---
 
+## 🧑‍💻 About Me
+
+- 💼 **Software Developer** at **Radisson Digital Technologies**
+- 🌍 **Portfolio:** [Visit my portfolio](https://github.com/ZobaidaHossain)
+- 📫 **Email:** [zobaida15-13671@diu.edu.bd](mailto:zobaida15-13671@diu.edu.bd)
+- 📫 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/zobaida-hossain-56a301214/)
+
+ 
+
+---
+
+## 🛠️ Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=laravel,vue,jquery,react,php,js,html,css,bootstrap,tailwind,c,cpp,python,java,express,nodejs,figma,firebase,linux,mysql," alt="Tech Stack Icons" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZobaidaHossain&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZobaidaHossain&show_icons=true&locale=en" alt="GitHub Stats" width="50%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZobaidaHossain" alt="GitHub Streak Stats" width="60%" />
+</div>
