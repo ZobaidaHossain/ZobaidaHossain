@@ -10,7 +10,6 @@ I’m a **Software Developer** specializing in **PHP**, **Laravel**, and **Vue.j
 ## 🧑‍💻 About Me
 
 - 💼 **Software Developer** at **Radisson Digital Technologies**
-- 🌍 **Portfolio:** [Visit my portfolio](https://github.com/ZobaidaHossain)
 - 📫 **Email:** [zobaida15-13671@diu.edu.bd](mailto:zobaida15-13671@diu.edu.bd)
 - 📫 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/zobaida-hossain-56a301214/)
 
